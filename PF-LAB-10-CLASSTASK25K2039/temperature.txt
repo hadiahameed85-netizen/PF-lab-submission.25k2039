@@ -1,0 +1,5 @@
+karachi 42.50
+ multan  23.70
+ peshawar  36.80
+ faislabad 56.40
+ murree -0.80

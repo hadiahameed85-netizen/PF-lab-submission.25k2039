@@ -1,0 +1,2 @@
+food 5000
+transport 1850
