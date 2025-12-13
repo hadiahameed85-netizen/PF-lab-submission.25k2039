@@ -1,0 +1,16 @@
+	 Temperature Summary
+1day temperature: 42.00
+2day temperature: 34.00
+3day temperature: 24.00
+4day temperature: 0.00
+low temp: 0
+Max temp: 42
+No.of reading under threshold: 2
+	 Temperature Summary
+1day temperature: 34.00
+2day temperature: 42.00
+3day temperature: 46.00
+4day temperature: 44.00
+low temp: 34
+Max temp: 46
+No.of reading under threshold: 0

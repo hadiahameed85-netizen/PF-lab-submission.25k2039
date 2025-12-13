@@ -1,0 +1,5 @@
+Student , RollNumber , SeatNumber
+kinza , 25k2002 , 34
+hadia batool , 25k2039 , 56
+gul e fatima , 25k2002 , 43
+ayesha , 24k2045 , 36

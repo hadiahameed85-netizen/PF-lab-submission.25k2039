@@ -1,0 +1,19 @@
+
+Customer 1
+Duration: 6 Hours
+Cost: Rs 300
+
+Customer 2
+Duration: 2 Days
+Cost: Rs 1000
+
+Customer 3
+Duration: 8 Hours
+Cost: Rs 400
+
+-----------------------------
+
+Total Customers: 3
+Total Rental Time (in hours): 62
+Highest Rental Duration: 8
+Total Revenue: Rs 1700
